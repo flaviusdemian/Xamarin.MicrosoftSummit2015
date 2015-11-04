@@ -1,0 +1,2 @@
+C:\Projects\MsSummit\MsSummit\MsSummit.iOS\obj\iPhone\Debug\optimized\
+C:\Projects\MsSummit\MsSummit\MsSummit.iOS\obj\iPhone\Debug\MsSummit.iOS.csprojResolveAssemblyReference.cache

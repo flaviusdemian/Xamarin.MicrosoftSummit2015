@@ -1,0 +1,4 @@
+MsSummit.Android.MainActivity, MsSummit.Android;md5fb2e6a1667d9cebc9dbe07f6285e1e09.MainActivity
+MsSummit.Android.MainActivity, MsSummit.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fb2e6a1667d9cebc9dbe07f6285e1e09.MainActivity
+MsSummit.Android.MainActivity;md5fb2e6a1667d9cebc9dbe07f6285e1e09.MainActivity
+mssummit.android.MainActivity;md5fb2e6a1667d9cebc9dbe07f6285e1e09.MainActivity

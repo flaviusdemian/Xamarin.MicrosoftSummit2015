@@ -1,0 +1,8 @@
+C:\Projects\MsSummit\MsSummit\MsSummit.Android\obj\Debug\assemblies\MsSummit.Android.dll
+C:\Projects\MsSummit\MsSummit\MsSummit.Android\obj\Debug\assemblies\Mono.Android.dll
+C:\Projects\MsSummit\MsSummit\MsSummit.Android\obj\Debug\assemblies\mscorlib.dll
+C:\Projects\MsSummit\MsSummit\MsSummit.Android\obj\Debug\assemblies\MsSummit.Core.dll
+C:\Projects\MsSummit\MsSummit\MsSummit.Android\obj\Debug\assemblies\System.Core.dll
+C:\Projects\MsSummit\MsSummit\MsSummit.Android\obj\Debug\assemblies\System.dll
+C:\Projects\MsSummit\MsSummit\MsSummit.Android\obj\Debug\assemblies\System.Xml.dll
+C:\Projects\MsSummit\MsSummit\MsSummit.Android\obj\Debug\assemblies\System.Xml.Linq.dll

@@ -1,0 +1,15 @@
+C:\Projects\MsSummit\MsSummit\MsSummit.iOS\bin\iPhoneSimulator\Debug\MsSummitiOS.exe
+C:\Projects\MsSummit\MsSummit\MsSummit.iOS\bin\iPhoneSimulator\Debug\MsSummitiOS.pdb
+C:\Projects\MsSummit\MsSummit\MsSummit.iOS\bin\iPhoneSimulator\Debug\MsSummit.Core.dll
+C:\Projects\MsSummit\MsSummit\MsSummit.iOS\bin\iPhoneSimulator\Debug\MsSummit.Core.pdb
+C:\Projects\MsSummit\MsSummit\MsSummit.iOS\obj\iPhoneSimulator\Debug\ibtool\MainStoryboard_iPad.storyboardc\BYZ-38-t0r-view-8bC-Xf-vdC.nib
+C:\Projects\MsSummit\MsSummit\MsSummit.iOS\obj\iPhoneSimulator\Debug\ibtool\MainStoryboard_iPad.storyboardc\Info.plist
+C:\Projects\MsSummit\MsSummit\MsSummit.iOS\obj\iPhoneSimulator\Debug\ibtool\MainStoryboard_iPad.storyboardc\UIViewController-BYZ-38-t0r.nib
+C:\Projects\MsSummit\MsSummit\MsSummit.iOS\obj\iPhoneSimulator\Debug\ibtool\MainStoryboard_iPhone.storyboardc\Info.plist
+C:\Projects\MsSummit\MsSummit\MsSummit.iOS\obj\iPhoneSimulator\Debug\ibtool\MainStoryboard_iPhone.storyboardc\UIViewController-vXZ-lx-hvc.nib
+C:\Projects\MsSummit\MsSummit\MsSummit.iOS\obj\iPhoneSimulator\Debug\ibtool\MainStoryboard_iPhone.storyboardc\vXZ-lx-hvc-view-kh9-bI-dsS.nib
+C:\Projects\MsSummit\MsSummit\MsSummit.iOS\obj\iPhoneSimulator\Debug\optimized\Default-568h@2x.png
+C:\Projects\MsSummit\MsSummit\MsSummit.iOS\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+C:\Projects\MsSummit\MsSummit\MsSummit.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Projects\MsSummit\MsSummit\MsSummit.iOS\obj\iPhoneSimulator\Debug\MsSummitiOS.exe
+C:\Projects\MsSummit\MsSummit\MsSummit.iOS\obj\iPhoneSimulator\Debug\MsSummitiOS.pdb

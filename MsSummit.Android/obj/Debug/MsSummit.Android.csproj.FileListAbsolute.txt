@@ -1,0 +1,15 @@
+C:\Projects\MsSummit\MsSummit\MsSummit.Android\bin\Debug\MsSummit.Android.dll
+C:\Projects\MsSummit\MsSummit\MsSummit.Android\bin\Debug\MsSummit.Android.pdb
+C:\Projects\MsSummit\MsSummit\MsSummit.Android\bin\Debug\MsSummit.Android.apk
+C:\Projects\MsSummit\MsSummit\MsSummit.Android\bin\Debug\MsSummit.Android-Signed.apk
+C:\Projects\MsSummit\MsSummit\MsSummit.Android\bin\Debug\MsSummit.Core.dll
+C:\Projects\MsSummit\MsSummit\MsSummit.Android\bin\Debug\MsSummit.Core.pdb
+C:\Projects\MsSummit\MsSummit\MsSummit.Android\obj\Debug\MsSummit.Android.csprojResolveAssemblyReference.cache
+C:\Projects\MsSummit\MsSummit\MsSummit.Android\obj\Debug\MsSummit.Android.dll
+C:\Projects\MsSummit\MsSummit\MsSummit.Android\obj\Debug\MsSummit.Android.pdb
+C:\Projects\MsSummit\MsSummit\MsSummit.Android\obj\Debug\android\bin\MsSummit.Android.apk
+C:\Projects\MsSummit\MsSummit\MsSummit.Android\obj\Debug\res\layout\main.xml
+C:\Projects\MsSummit\MsSummit\MsSummit.Android\obj\Debug\res\values\strings.xml
+C:\Projects\MsSummit\MsSummit\MsSummit.Android\obj\Debug\res\drawable\icon.png
+C:\Projects\MsSummit\MsSummit\MsSummit.Android\obj\Debug\R.cs.flag
+C:\Projects\MsSummit\MsSummit\MsSummit.Android\obj\Debug\uploadflags.txt

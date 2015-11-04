@@ -1,0 +1,5 @@
+C:\Projects\MsSummit\MsSummit\MsSummit.Core\bin\Debug\MsSummit.Core.dll
+C:\Projects\MsSummit\MsSummit\MsSummit.Core\bin\Debug\MsSummit.Core.pdb
+C:\Projects\MsSummit\MsSummit\MsSummit.Core\obj\Debug\MsSummit.Core.csprojResolveAssemblyReference.cache
+C:\Projects\MsSummit\MsSummit\MsSummit.Core\obj\Debug\MsSummit.Core.dll
+C:\Projects\MsSummit\MsSummit\MsSummit.Core\obj\Debug\MsSummit.Core.pdb

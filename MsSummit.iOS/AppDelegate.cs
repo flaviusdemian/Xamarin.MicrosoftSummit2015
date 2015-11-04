@@ -10,7 +10,6 @@ namespace MsSummit.iOS
     // The UIApplicationDelegate for the application. This class is responsible for launching the 
     // User Interface of the application, as well as listening (and optionally responding) to 
     // application events from iOS.
-    [Register("AppDelegate")]
     public partial class AppDelegate : UIApplicationDelegate
     {
         UIWindow _window;
@@ -26,8 +25,8 @@ namespace MsSummit.iOS
                 MainStoryBoardName = "MainStoryboard_iPad";
             }
             Storyboard = UIStoryboard.FromName(MainStoryBoardName, null);
-            initialViewController = Storyboard.InstantiateInitialViewController() as UIViewController;
-
+            initialViewController = Storyboard.InstantiateViewController("MainViewController");
+            initialViewController = initialViewController as MainViewController;
             _window.RootViewController = initialViewController;
             _window.MakeKeyAndVisible();
 

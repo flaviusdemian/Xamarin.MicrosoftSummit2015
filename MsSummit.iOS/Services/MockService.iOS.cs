@@ -8,7 +8,7 @@ namespace MsSummit.Core
     {
         partial void DoSomething()
         {
-            _partialString = "DoSomething Android";
+            _partialString = "DoSomething iOS";
         }
 
         public string IFDEFString

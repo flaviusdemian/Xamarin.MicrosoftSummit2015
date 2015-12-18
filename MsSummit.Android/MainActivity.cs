@@ -41,6 +41,10 @@ namespace MsSummit.Android
 #if __ANDROID__
             Console.WriteLine("__ANDROID__ is defined");
 #endif
+
+#if __IOS__
+            Console.WriteLine("__ANDROID__ is defined");
+#endif
         }
 
     }
